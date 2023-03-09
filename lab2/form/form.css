@@ -1,0 +1,51 @@
+h3{margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+input{
+    width: 75%;
+    padding: 12px;
+ 
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    margin-left: 60px;
+  }
+  label{
+    font-size: 20px;
+    margin-left: 60px;
+
+  }
+body{
+    background-image: url("4110786-959008197.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  .container {
+ 
+    border-radius: 5px;
+ width: 500px;
+ height: 250px;
+   padding: 20px;
+   margin:0 450px; 
+ }
+#button{
+margin-left: 170px;
+width: 100px;
+height: 50px;
+border-radius: 10px;
+    background-color: rgb(194, 144, 70);
+
+     }
+ #button:hover{
+background-color: blanchedalmond;
+ }
+
+form{
+padding: 30px;
+border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.311);
+}
