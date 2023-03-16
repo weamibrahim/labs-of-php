@@ -1,0 +1,10 @@
+{
+
+
+
+    "autoload": {
+
+
+        "classmap": ["clasess"],
+    "files": ["config.php","function.php"]    }
+}
